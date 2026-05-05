@@ -42,7 +42,7 @@ Key Fields:
 Climate change is one of the biggest challenges of our time — yet most people don't have access to a simple, visual way to understand how temperatures have actually changed across the world. Raw data exists, but without a clear dashboard, it's hard to spot which countries are heating up the fastest, which decades saw the biggest jumps, and how severe the situation really is.
 
 
-* Goal of the Dashboard:
+2-  Goal of the Dashboard:
 
  
 The goal of this Heatwave Anomalies Dashboard is to provide one single, interactive report where anyone can:
@@ -55,7 +55,7 @@ The goal of this Heatwave Anomalies Dashboard is to provide one single, interact
 * Filter data dynamically using Year, Region, and Year Range Slicers
 
 
-Walk Through of Key Visuals:
+3- Walk Through of Key Visuals:
 
 
 * KPI Cards (Top Row): Show Average Anomaly, Max Anomaly, Min Anomaly, Years Analyzed, and Countries Covered — instant snapshot of the global temperature situation in one glance
@@ -82,7 +82,7 @@ Walk Through of Key Visuals:
 
   
 
-Business Impact & Insights:
+4-  Business Impact & Insights:
 
 * 🔴 2020s decade has the highest average anomaly of +1.78°C — clearly the hottest decade in recorded history
 * 🌏 Asia and Africa show the steepest rise in recent decades — most vulnerable regions
@@ -91,7 +91,7 @@ Business Impact & Insights:
 * 🗺️ India, Brazil, and Australia consistently top the most-affected countries list
 
 
-6- Screenshot/ Demo:
+5-   Screenshot/ Demo:
 
 * Show what the dashboard looks like.
 
