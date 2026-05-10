@@ -2,13 +2,13 @@
 
 1- Project Title / Headline:
 
-* 🌍 Heatwave Anomalies: Global Temperature Crisis Dashboard🌡️:-
+🌍 Heatwave Anomalies: Global Temperature Crisis Dashboard🌡️:-
 
-  A dynamic, interactive data visualization tool built to explore worldwide temperature anomaly data — focusing on country-wise heatwave     intensity, regional patterns, decade-over-decade trends, and global climate shifts from 1970 to 2023.
+A dynamic, interactive data visualization tool built to explore worldwide temperature anomaly data — focusing on country-wise heatwave     intensity, regional patterns, decade-over-decade trends, and global climate shifts from 1970 to 2023.
 
 2- Short Description / Purpose:
 
-* The Heatwave Anomalies Dashboard is a visually powerful and analytically rich Power BI report designed to help users explore and          understand temperature anomaly trends across 195+ countries and 50+ years of climate data. The dashboard highlights key metrics like      average anomaly, maximum heatwave intensity, minimum temperature deviation, and classification of heatwave severity — ranging from        Negative to Extreme. This tool is built for data analysts, climate researchers, sustainability professionals, and curious minds who       want to understand how Earth's temperature has shifted over decades — and which regions are most at risk.
+The Heatwave Anomalies Dashboard is a visually powerful and analytically rich Power BI report designed to help users explore and          understand temperature anomaly trends across 195+ countries and 50+ years of climate data. The dashboard highlights key metrics like      average anomaly, maximum heatwave intensity, minimum temperature deviation, and classification of heatwave severity — ranging from        Negative to Extreme. This tool is built for data analysts, climate researchers, sustainability professionals, and curious minds who       want to understand how Earth's temperature has shifted over decades — and which regions are most at risk.
 
 3- Tech Stack:
 
@@ -21,6 +21,7 @@
 
 4- Data Source:
 Source: https://www.kaggle.com/datasets/muhammadroshaanriaz/heatwave-excessive-heat-anomalies-by-year
+
 Dataset contains surface temperature anomaly readings for 195+ countries from 1970 to 2023 — showing how much each country's temperature deviated from the long-term average each year.
 
 
@@ -93,7 +94,7 @@ d-  Business Impact & Insights:
 
 6-   Screenshot/ Demo:
 
-* Show what the dashboard looks like.
+Show what the dashboard looks like.
 
 <img width="906" height="506" alt="Heatwave Dashboard " src="https://github.com/user-attachments/assets/e7f7b28c-0d3c-4331-8c11-62438a02d75b" />
 
